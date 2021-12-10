@@ -8,7 +8,7 @@ public class ATM {
         // 500, 200, 100, 50, 20, 10, 5, 2 и 1
     }
 
-    public static int countBanknotes(int sum) {
+    public int countBanknotes(int sum) {
         int count = 0;
 
         boolean flag = false;
