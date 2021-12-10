@@ -39,10 +39,4 @@ public class ATM {
 
         return count;
     }
-
-    public static void main(String[] args) {
-        ATM atm = new ATM();
-        System.out.println(atm.countBanknotes(502));
-        // 500, 200, 100, 50, 20, 10, 5, 2 и 1
-    }
 }
