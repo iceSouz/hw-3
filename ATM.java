@@ -1,6 +1,3 @@
-package com.test;
-
-
 public class ATM {
     
         public int countBanknotes(int sum) {
